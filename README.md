@@ -21,7 +21,7 @@ Version Notes
 Currently supports Mac OS X (64-bit), Linux (32 and 64-bit) and Windows
 (32 and 64-bit).
 
-Currently version `4.0.2` is installed for Mac, Windows and Linux. Version `6.0` is installed for arm on Linux.
+Currently version `4.0.2` is installed for Mac and Windows. Version `6.0` is installed for Linux.
 
 I pulled the versions from the ffmpeg static build pages linked from the
 official ffmpeg site. Namely:
