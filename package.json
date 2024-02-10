@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@creavitehq/ffprobe-static.git"
+    "url": "git+https://github.com/creavitehq/ffprobe-static.git"
   },
   "keywords": [
     "ffprobe",
@@ -20,9 +20,9 @@
     "tape": "^4.0.1"
   },
   "bugs": {
-    "url": "https://github.com/@creavitehq/ffprobe-static/issues"
+    "url": "https://github.com/creavitehq/ffprobe-static/issues"
   },
-  "homepage": "https://github.com/@creavitehq/ffprobe-static#readme",
+  "homepage": "https://github.com/creavitehq/ffprobe-static#readme",
   "directories": {
     "test": "tests"
   }
